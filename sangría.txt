@@ -1,4 +1,4 @@
-sangría
+Sangría
 
  - un cubo suficientemente grande
  - vino (tintorro, claro), tantos litros como consideres
@@ -9,7 +9,7 @@ sangría
    * manzana, verde o roja
    * pera
    * naranja
-   * sandría
+   * sandía
    * plátano
    * ...
 
